@@ -15,9 +15,3 @@
 body{
     background-color: rgb(62, 184, 255);
 }
-.content{
-    display: inline-block;
-    width: 600px;
-    border: 2px black solid;
-    padding: 50px 50px;
-}
