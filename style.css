@@ -1,0 +1,23 @@
+#ha{
+    font-size: 128px;
+    color: brown;
+    font-weight: 300;
+    display: inline-block;
+    border: 3px green solid;
+    padding: 30px;
+    margin: 100px;
+}
+#first{
+    display: inline-block;
+    border: 2px  aqua solid;
+    padding: 30px;
+}
+body{
+    background-color: rgb(62, 184, 255);
+}
+.content{
+    display: inline-block;
+    width: 600px;
+    border: 2px black solid;
+    padding: 50px 50px;
+}
