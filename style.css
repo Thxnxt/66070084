@@ -6,16 +6,17 @@
     padding: 30px;
     text-align: center;
     border-radius: 20px;
+    margin-top: 40px;
 }
 #first{
     display: inline-block;
     color: whitesmoke;
-    margin-left: 40%;
     font-size: 54px;
     margin-top: 1%;
 }
 body{
     background-image: url(wallpapersden.com_artistic-landscape-view_1920x1080.jpg);
+    overflow: hidden;
 }
 body #ha{
     margin-left: 350px;
@@ -23,11 +24,30 @@ body #ha{
     margin-bottom: 20px;
 }
 a{
-    margin-left: 90%;
+    margin-left: 50%;
+    color: aliceblue;
+    font-size: 100px;
 }
 span{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 400;
     color: brown;
     font-size: 74px;
+}
+.pap{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 2px whitesmoke solid;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.pap img{
+    height: 100%;
+}
+.box{
+    margin: 100px;
+    display: flex;
+    transform: translate(10%);
 }
