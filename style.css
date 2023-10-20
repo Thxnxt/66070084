@@ -2,16 +2,32 @@
     font-size: 128px;
     color: brown;
     font-weight: 300;
-    display: inline-block;
-    border: 3px green solid;
+    border: 3px rgb(230, 178, 144) solid;
     padding: 30px;
-    margin: 100px;
+    text-align: center;
+    border-radius: 20px;
 }
 #first{
     display: inline-block;
-    border: 2px  aqua solid;
-    padding: 30px;
+    color: whitesmoke;
+    margin-left: 40%;
+    font-size: 54px;
+    margin-top: 1%;
 }
 body{
-    background-color: rgb(62, 184, 255);
+    background-image: url(wallpapersden.com_artistic-landscape-view_1920x1080.jpg);
+}
+body #ha{
+    margin-left: 350px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+}
+a{
+    margin-left: 90%;
+}
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: brown;
+    font-size: 74px;
 }
